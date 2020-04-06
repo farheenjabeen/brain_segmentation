@@ -1,4 +1,4 @@
-# Brain_Segmentation
+# Brain Segmentation
 
 ### Installation
 
