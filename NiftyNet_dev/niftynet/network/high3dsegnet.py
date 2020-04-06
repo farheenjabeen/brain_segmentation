@@ -21,7 +21,7 @@ class High3DSegNet(BaseNet):
                  b_initializer=None,
                  b_regularizer=None,
                  acti_func='prelu',
-                 name='HighRes3DNet'):
+                 name='High3DSegNet'):
 				 
         super(High3DSegNet, self).__init__(
             num_classes=num_classes,
